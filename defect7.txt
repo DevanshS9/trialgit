@@ -1,2 +1,3 @@
-Solution for defect7
 Solution for defect10branch in defect7txt file for merge conflicts
+Solution for defect7
+Solution for defect10branch in defect7txt file for merge conflicts1
