@@ -1,4 +1,5 @@
 Solution for defect7
-Solution for defect7b for merge conflicts.
 Solution for defect7c for merge conflicts.
+Solution for defect7d for merge conflicts.
+Solution for defect7b for merge conflicts.
 Solution for defect7a for merge conflicts.
